@@ -1,6 +1,6 @@
 PROJECT = emq_clientid_unique
 PROJECT_DESCRIPTION = EMQ ClientId Unique Guarantor
-PROJECT_VERSION = 2.3
+PROJECT_VERSION = 2.3.0
 
 BUILD_DEPS = emqttd cuttlefish
 dep_emqttd = git https://github.com/emqtt/emqttd master
